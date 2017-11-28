@@ -1,0 +1,15 @@
+{
+  "package_name": "SigP-SafeMath",
+  "version": "0.1",
+  "description": "A collection of secure mathematical libraries for Solidity",
+  "authors": [ "Adrian Manning <adrian@sigmaprime.io>" ], 
+  "keywords": [
+    "safemath",
+    "math",
+    "solidity",
+    "sigp",
+    "secure",
+    "contract",
+    "ethereum"],
+    "licence" : "MIT"
+}
